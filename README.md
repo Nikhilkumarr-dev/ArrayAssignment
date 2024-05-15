@@ -21,5 +21,7 @@ number of odd numbers
 number of even numbers
 number of 0.
 
-8.write a program to print the elements above the secondary diagonal in a user inputted
+8. Write a program to calculate the maximum element in the array.
+
+9.write a program to print the elements above the secondary diagonal in a user inputted
 square matrix.
